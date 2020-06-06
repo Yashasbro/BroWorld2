@@ -1,0 +1,31 @@
+#nav{background-image:url('C:/Users/Admin/Desktop/Web dev/white-brick-interior-wall-texture.jpg');margin-bottom:-48px;background-size: cover;background-repeat: no-repeat;
+filter:opacity(0.9);}
+#logo{position: relative;margin-right: 20px;animation:logoo 2s 7;}
+#bar{float: right;font-family: monospace;margin:0px;margin-top: 10px;}
+#abo{float: left;color: black;text-decoration: none;font-size:22px;margin-right: 24px;margin-top: 10px;}
+#inn{float: left;color: black;text-decoration: none;font-size:22px;margin-right: 24px;margin-top: 10px;}
+#par{float: left;color: black;text-decoration: none;font-size:22px;margin-right: 24px;margin-top: 10px;}
+#car{float: left;color: black;text-decoration: none;font-size:22px;margin-right: 24px;margin-top: 10px;}
+#con{float: left;color: black;text-decoration: none;font-size:22px;margin-right: 24px;margin-top: 10px;}
+
+#abo:hover{font-weight: bolder;border-bottom: 4px solid black;border-top: 4px solid black;padding: 8px;}
+#inn:hover{font-weight: bolder;border-left: 4px solid black;border-right: 4px solid black;padding: 8px;}
+#par:hover{font-weight: bolder;border-bottom: 4px solid black;border-top: 4px solid black;padding: 8px;}
+#car:hover{font-weight: bolder;border-left: 4px solid black;border-right: 4px solid black;padding: 8px;}
+#con:hover{font-weight: bolder;border-bottom: 4px solid black;border-top: 4px solid black;padding: 8px;}
+
+#head{background-image: url('C:/Users/Admin/Desktop/Web dev/drone-flying-over-road.jpg');background-size: cover;
+background-repeat: no-repeat;height: 550px;}
+#exp:hover{text-decoration: underline;}
+@keyframes logoo{
+	0%{transform: rotateY(0deg);}
+	100%{transform:rotateY(360deg);}
+
+}
+#heado{padding-top: 12px;}
+#parao{padding-left: 35px;padding-right: 35px;font-size: 25px;font-weight:bold;text-shadow: 0px 0px 10px black;}
+#parat{padding-left: 35px;padding-right: 35px;font-size: 25px;font-weight:bold;text-shadow: 0px 0px 10px black;}
+#parath{padding-left: 35px;padding-right: 35px;font-size: 25px;font-weight:bolder;color:#fc037b;text-shadow: 0px 0px 10px white;margin-bottom: 30px;}
+
+
+
